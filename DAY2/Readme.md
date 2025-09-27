@@ -54,3 +54,6 @@ we will be using stacked NMOS
 
 # Various flop coding styles and optimizarion
 
+<img width="1222" height="768" alt="image" src="https://github.com/user-attachments/assets/f6625c98-bfd5-4edb-bb88-e9ab8f387123" />
+
+<img width="1052" height="699" alt="image" src="https://github.com/user-attachments/assets/967ff3ee-c4f3-47b9-af46-8dac7f683854" />
