@@ -54,6 +54,17 @@ we will be using stacked NMOS
 
 # Various flop coding styles and optimizarion
 
+yosys> read_liberty -lib ../my_lib/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+
+yosys> read_verilog dff_asyncres.v
+
+yosys> dfflibmap -liberty ../my_lib/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+
+
+yosys> abc -liberty ../my_lib/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+
+<img width="638" height="676" alt="image" src="https://github.com/user-attachments/assets/b72d32b8-7604-4a94-a79c-d286c3b1b663" />
+
 <img width="1355" height="1269" alt="image" src="https://github.com/user-attachments/assets/663aef87-d796-47dc-92d1-32bea8bf5fb6" />
 
 <img width="1222" height="768" alt="image" src="https://github.com/user-attachments/assets/f6625c98-bfd5-4edb-bb88-e9ab8f387123" />
