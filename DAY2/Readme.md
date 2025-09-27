@@ -74,3 +74,6 @@ yosys> abc -liberty ../my_lib/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
 <img width="1222" height="768" alt="image" src="https://github.com/user-attachments/assets/f6625c98-bfd5-4edb-bb88-e9ab8f387123" />
 
 <img width="1052" height="699" alt="image" src="https://github.com/user-attachments/assets/967ff3ee-c4f3-47b9-af46-8dac7f683854" />
+
+<img width="1008" height="683" alt="image" src="https://github.com/user-attachments/assets/b1369e02-56c7-4d65-acd1-f4c668fa6ec4" />
+
