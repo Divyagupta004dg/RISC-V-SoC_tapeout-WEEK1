@@ -1,6 +1,21 @@
-# Lab using i verilog and gtkwave 
+**start commands**
+
+sudo -i
+
+cd /home
+
+cd divya
+
+cd VLSI
+
+cd sky130RTLDesignAndSynthesisWorkshop
+
+cd verlog_files
 
 <img width="1222" height="768" alt="image" src="https://github.com/user-attachments/assets/254f38c5-f5b0-4a81-80eb-f04d6e114f4a" />
+
+# Lab using i verilog and gtkwave 
+
 
 <img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/e939f182-7bd1-4b3b-b51e-8850e240e3e6" />
 
