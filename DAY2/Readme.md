@@ -30,4 +30,27 @@ Generating RTLIL representation for module `\sub_module1'.
 Generating RTLIL representation for module `\multiple_modules'.
 Successfully finished Verilog frontend.
 
+run ``synth -top multiple_modules``
+
+# 2 Hiercharcy vs flat design
+
+**hierchary design **
+
+yosys> ``show multiple_modules``
+
+<img width="638" height="676" alt="image" src="https://github.com/user-attachments/assets/d0a986c7-66c1-491b-8aee-08ad6134ad9e" />
+
+yosys> ``write_verilog -noattr multiple_modules_hier.v``
+
+yosys> ``!gvim multiple_modules_hier.v``
+
+<img width="1222" height="768" alt="image" src="https://github.com/user-attachments/assets/b1be65d2-91f1-4698-b1c8-020f7cc4ff57" />
+
+we will be using stacked NMOS 
+
+**flatten view**
+
+<img width="1222" height="768" alt="image" src="https://github.com/user-attachments/assets/799111d6-940d-4685-b95d-59e7c78a218c" />
+
+# Various flop coding styles and optimizarion
 
