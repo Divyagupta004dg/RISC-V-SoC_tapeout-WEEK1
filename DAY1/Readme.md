@@ -1,6 +1,10 @@
-# lab using i verilog and gtkwave 
+# Lab using i verilog and gtkwave 
 
+<img width="1222" height="768" alt="image" src="https://github.com/user-attachments/assets/254f38c5-f5b0-4a81-80eb-f04d6e114f4a" />
 
+<img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/e939f182-7bd1-4b3b-b51e-8850e240e3e6" />
+
+<img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/bf934d49-e59c-4daa-94ce-217255e3ce8c" />
 
 # Lab using Yosys and sky pdk 130
 
