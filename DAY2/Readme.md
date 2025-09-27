@@ -65,6 +65,10 @@ yosys> abc -liberty ../my_lib/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
 
 <img width="638" height="676" alt="image" src="https://github.com/user-attachments/assets/b72d32b8-7604-4a94-a79c-d286c3b1b663" />
 
+<img width="638" height="676" alt="image" src="https://github.com/user-attachments/assets/fc8a46e9-e0eb-4b31-ad5e-1440fe90907b" />
+
+
+
 <img width="1355" height="1269" alt="image" src="https://github.com/user-attachments/assets/663aef87-d796-47dc-92d1-32bea8bf5fb6" />
 
 <img width="1222" height="768" alt="image" src="https://github.com/user-attachments/assets/f6625c98-bfd5-4edb-bb88-e9ab8f387123" />
