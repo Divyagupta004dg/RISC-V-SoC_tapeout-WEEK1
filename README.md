@@ -5,7 +5,7 @@
 [![Tapeout Ready](https://img.shields.io/badge/Goal-Tapeout%20Ready-red)](https://en.wikipedia.org/wiki/Photomask)
 [![Made in India](https://img.shields.io/badge/Made%20in-India-green)](https://www.makeinindia.com/)
 
-# RISC-V-SoC_tapeout-WEEK1
+***RISC-V-SoC_tapeout-WEEK1***
 
 # Day 1 - Introduction to Verilog RTL design and Synthesis
 
