@@ -19,3 +19,28 @@ Gate-Level Simulation (GLS) is a verification stage in the VLSI design process w
 
 ● Functional Gate Simulation – Focuses on logical correctness with zero or unit delays.
 ● Timing-Aware Gate Simulation – Uses back-annotated delays (from SDF) to reflect real hardware timing behavior.
+
+
+🟢 Procedural Assignments in Verilog
+
+Verilog supports two styles of procedural assignments inside always blocks. These define how values are updated and whether execution is sequential or concurrent.
+
+🟢 Type 1: Blocking Assignment
+
+● Symbol: =
+● Execution style: Runs one statement at a time, in strict order.
+● Best suited for: Modeling combinational logic (always @(*)).
+● Example:
+
+``always @(*)  
+  y = a & b; `` 
+
+🟢 Type 2: Non-Blocking Assignment
+
+● Symbol: <=
+● Execution style: Updates are scheduled and applied at the end of the current time step.
+● Best suited for: Sequential circuits triggered by a clock (always @(posedge clk)).
+● Example:
+
+``always @(posedge clk)  
+  q <= d;  ``
