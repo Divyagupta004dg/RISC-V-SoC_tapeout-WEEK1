@@ -6,3 +6,8 @@ OPT CHECK
 3 input NAND gate 
 
 <img width="638" height="676" alt="image" src="https://github.com/user-attachments/assets/12bd87dd-2762-42bb-ab36-e3397d12b8d3" />
+
+<img width="1008" height="598" alt="image" src="https://github.com/user-attachments/assets/f0bcd1d1-7bad-45ce-9afc-99051b50d2f1" />
+
+const 1 
+<img width="1052" height="699" alt="image" src="https://github.com/user-attachments/assets/ac51c66a-e688-4e33-8d36-99115c640cae" />
