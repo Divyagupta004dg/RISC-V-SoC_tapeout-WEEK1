@@ -4,15 +4,15 @@ If-else statements are used to model decisions in behavioral code inside procedu
 
 ● Syntax pattern
 
-``if (condition) begin  
+``if (condition) begin  ``
 
-   // Executes if condition is true  
+  `` // Executes if condition is true  ``
    
-end else begin  
+``end else begin  ``
 
-   // Executes if condition is false  
+ ``  // Executes if condition is false  ``
    
-end``
+``end``
 
 
 ● Key points
