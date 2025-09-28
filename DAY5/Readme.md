@@ -5,9 +5,13 @@ If-else statements are used to model decisions in behavioral code inside procedu
 ● Syntax pattern
 
 ``if (condition) begin  
+
    // Executes if condition is true  
+   
 end else begin  
+
    // Executes if condition is false  
+   
 end``
 
 
